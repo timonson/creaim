@@ -1,0 +1,9 @@
+{
+  "extends": "../../../tsconfig-base.json",
+  "compilerOptions": {
+    "outDir": "../../lib/dragAndDrop",
+    "rootDir": "."
+  },
+  "references": [{ "path": "../../src/utils" }],
+  "include": ["*.ts","template.js"]
+}

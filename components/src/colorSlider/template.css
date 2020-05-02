@@ -1,0 +1,8 @@
+:host {
+  display: inline-block;
+  transform: rotate(${opts.rotation}deg);
+  margin-top: ${opts.marginTop};
+}
+svg circle {
+  cursor: pointer;
+}

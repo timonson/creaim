@@ -1,0 +1,9 @@
+{
+  "extends": "../../../tsconfig-base.json",
+  "compilerOptions": {
+    "outDir": "../../lib/anyFileDownloader",
+    "rootDir": "."
+  },
+  "references": [],
+  "include": ["*.ts", "template.js"]
+}

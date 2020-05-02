@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title></title>
+    <script src="../dist/modalWindow.js" type="module"></script>
+    <script
+      src="../settingOptions.js"
+      type="module"
+    ></script>
+  </head>
+  <body>
+    <button>Click</button>
+    <modal-window>
+      <h1 slot="modal-content">HELLO WORLD</h1>
+    </modal-window>
+    <script>
+      const button = document.querySelector("button")
+      const modalWindow = document.querySelector("modal-window")
+      button.addEventListener("click", () => (modalWindow.showModal = true))
+      setTimeout(() => (modalWindow.showModal = false), 6000)
+    </script>
+  </body>
+</html>

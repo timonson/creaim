@@ -1,0 +1,9 @@
+{
+  "extends": "../../../tsconfig-base.json",
+  "compilerOptions": {
+    "outDir": "../../lib/settingOptions",
+    "rootDir": "."
+  },
+  "references": [{ "path": "../colorSlider" }],
+  "include": ["*.ts","template.js"]
+}

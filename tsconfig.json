@@ -1,0 +1,35 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./components/src/colorSlider"
+    },
+    {
+      "path": "./components/src/modalWindow"
+    },
+    {
+      "path": "./components/src/settingOptions"
+    },
+    {
+      "path": "./components/src/dragAndDrop"
+    },
+    {
+      "path": "./components/src/styledCurves"
+    },
+    {
+      "path": "./components/src/mappingElement"
+    },
+    {
+      "path": "./components/src/anyFileReader"
+    },
+    {
+      "path": "./components/src/anyFileDownloader"
+    },
+    {
+      "path": "./components/src/utils"
+    },
+    {
+      "path": "components/src/dualElement"
+    }
+  ]
+}
