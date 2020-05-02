@@ -36,7 +36,6 @@ const components = [
   "colorSlider",
   "styledCurves",
   "dragAndDrop",
-  "mappingElement",
   "settingOptions",
   "anyFileReader",
   "anyFileDownloader",

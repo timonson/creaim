@@ -45,3 +45,10 @@ You can find all Web Components used by this app inside the _components_ folder.
     documents.
   </li>
 </ul>
+
+## Development
+
+```bash
+npm install
+npm run dev
+```

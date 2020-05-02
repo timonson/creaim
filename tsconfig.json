@@ -17,9 +17,6 @@
       "path": "./components/src/styledCurves"
     },
     {
-      "path": "./components/src/mappingElement"
-    },
-    {
       "path": "./components/src/anyFileReader"
     },
     {

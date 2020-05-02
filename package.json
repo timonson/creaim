@@ -8,7 +8,7 @@
     "test": "karma start",
     "roll": "rollup -c --watch",
     "tsc": "tsc --build --watch",
-    "dev": "npm run roll & npm run tsc & npm run test"
+    "dev": "npm run roll & npm run tsc"
   },
   "keywords": [],
   "author": "",
