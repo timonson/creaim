@@ -231,6 +231,7 @@ function getHtml$1(opts = {}) {
   <style>
     #help {
     margin:1em;
+    background-color:inherit;
   display: inline-block;
   font-family: "Arial";
   font-size: 16px;
