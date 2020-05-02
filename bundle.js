@@ -29,8 +29,7 @@ function getCss(opts = {}) {
   /* transform: scale(1.1); */
 }
 :host(.activated) {
-  /* border: solid darkslategrey 2.5px !important; */
-  border: solid black 2.5px !important;
+  border: solid darkslategrey 2.5px !important;
 }
 ::slotted(*) {
   border-radius: 45px;
