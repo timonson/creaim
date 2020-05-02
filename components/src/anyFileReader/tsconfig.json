@@ -1,9 +1,0 @@
-{
-  "extends": "../../../tsconfig-base.json",
-  "compilerOptions": {
-    "outDir": "../../lib/anyFileReader",
-    "rootDir": "."
-  },
-  "references": [],
-  "include": ["*.ts", "template.js"]
-}

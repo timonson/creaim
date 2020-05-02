@@ -1,9 +1,0 @@
-{
-  "extends": "../../../tsconfig-base.json",
-  "compilerOptions": {
-    "outDir": "../../lib/dualElement",
-    "rootDir": "."
-  },
-  "references": [{ "path": "../utils" }],
-  "include": ["*.ts", "template.js"]
-}
